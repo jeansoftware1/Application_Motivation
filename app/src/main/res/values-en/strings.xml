@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="hello">Hello user!</string>
+    <string name="new_frase">New Phrase!</string>
+    <string name="name">\@jeansoftware1</string>
+    <string name="iniciar_text">Let´s go?</string>
+    <string name="nome">What´s your name?</string>
+    <string name="salvar">save</string>
+</resources>

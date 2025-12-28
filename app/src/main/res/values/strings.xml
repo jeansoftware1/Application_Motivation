@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Motivação</string>
+    <string name="motivation" translatable="false">Eu sou a ressurreição e a vida. Quem crê em mim, ainda que morra, viverá; e quem vive e crê em mim nunca morrerá.</string>
+    <string name="hello">Olá usuario!</string>
+    <string name="new_frase">Nova Frase!</string>
+    <string name="name">\@jeansoftware1</string>
+    <string name="iniciar_text">Vamos começar?</string>
+    <string name="nome">Qual é o seu nome?</string>
+    <string name="salvar">salvar</string>
+</resources>
