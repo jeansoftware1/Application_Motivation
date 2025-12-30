@@ -4,7 +4,7 @@ O aplicativo consiste em um aplicativo básico e de fácil uso, resultando em du
 ## Tela inicial 
 Tela inicial user_activity, solicitando o nome do usuário
 
-<img width="1080" height="2280" alt="Screenshot_20251228_135954" src="https://github.com/user-attachments/assets/6656e219-755b-40bc-9735-e91e19b255ee" />
+<img width="270" height="570" alt="Screenshot_20251228_135954" src="https://github.com/user-attachments/assets/6656e219-755b-40bc-9735-e91e19b255ee" />
 
 ### Tela principal 
 Tela princial main_activty, Ja compostos por frases de motivação
